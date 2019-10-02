@@ -1,0 +1,29 @@
+#content{
+  padding: 20px;
+  background: yellow;
+  overflow: hidden;
+}
+#artikel{
+  width: 600px;
+  height: 600px;
+  float: left;
+  background-size: 500px;
+}
+#sidebar{
+  float: right;
+}
+#footer{
+  width: 100%;
+  height: 50px;
+  background: green;
+}
+#coba{
+  margin-left: auto;
+  width: 800px;
+  height: 800px;
+
+}
+li{
+  font-size: 10px;
+
+}

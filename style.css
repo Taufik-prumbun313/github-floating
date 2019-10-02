@@ -1,0 +1,31 @@
+#content{
+  padding: 20px;
+  background: yellow;
+  overflow: hidden;
+}
+#artikel{
+  width: 600px;
+  height: 600px;
+  float: left;
+  background-size: 500px;
+}
+#sidebar{
+  float: right;
+}
+#coba{
+  background: purple;
+  float: auto;
+  width: 1400px;
+  height: 600px;
+  font-size: 20px;
+
+}
+li{
+  font-size: 20px;
+
+}
+#footer{
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  background: pink;
